@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "istream": "cpp",
+        "cstring": "cpp",
+        "unordered_map": "cpp"
+    }
+}
